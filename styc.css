@@ -1,0 +1,20 @@
+button{
+    height: 30px;
+    width: 200px;
+}
+
+div {
+    border: solid black;
+    border-radius: 5px;
+    height: 250px;
+    margin-top: 5px;
+    color: white;
+}
+body{
+    background-color: darkgrey;
+    text-align: center;
+}
+
+button:hover{
+    cursor: pointer;
+}
